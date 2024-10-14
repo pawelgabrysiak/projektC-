@@ -1,31 +1,25 @@
-Projekt typu paint 
-Propozycja funkcjonalności aplikacji typu Paint:
-Podstawowe narzędzia rysunkowe:
+# Paint Application Project
 
-Ołówek: Rysowanie linii swobodnych.
-Pędzel: Rysowanie grubych linii.
-Gumka: Usuwanie elementów rysunku.
-Proste figury: Linie, prostokąty, okręgi.
-Paleta kolorów:
+## Opis projektu
 
-Wybór koloru z predefiniowanej palety.
-Możliwość użycia niestandardowego koloru poprzez selektor.
-Grubość linii/pędzla:
+Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli użytkownikom na rysowanie przy użyciu różnych narzędzi graficznych. Aplikacja będzie posiadać podstawowe funkcjonalności takie jak możliwość rysowania pędzlem, zmiany kolorów za pomocą palety oraz rysowania prostych figur geometrycznych, takich jak linie, prostokąty czy elipsy.
 
-Możliwość zmiany grubości narzędzia do rysowania.
-Operacje na obrazach:
+## Funkcjonalności:
+- Paleta kolorów umożliwiająca wybór różnych barw do rysowania
+- Rysowanie prostych figur geometrycznych (linie, prostokąty, elipsy)
+- Narzędzie pędzla z możliwością zmiany grubości
+- Gumka do wymazywania narysowanych elementów
+- Opcja cofania i ponawiania akcji
+- Zapisywanie i wczytywanie rysunków w formacie graficznym
 
-Nowy plik: Rozpoczęcie nowego rysunku.
-Zapis i odczyt plików: Możliwość zapisu rysunku do formatu np. PNG, BMP lub JPG oraz otwierania plików.
-Cofanie i ponawianie operacji:
+## Harmonogram prac:
+- **Tydzień 1**: Opracowanie interfejsu użytkownika, wybór odpowiedniej biblioteki graficznej.
+- **Tydzień 2**: Implementacja palety kolorów i narzędzia pędzla.
+- **Tydzień 3**: Dodanie możliwości rysowania prostych figur geometrycznych.
+- **Tydzień 4**: Wprowadzenie funkcji zapisywania i otwierania plików.
+- **Tydzień 5**: Testowanie aplikacji i wprowadzenie ewentualnych poprawek.
 
-Funkcja cofania i ponawiania ostatnich działań użytkownika.
-Warstwy (opcjonalnie, bardziej zaawansowane):
-
-Możliwość rysowania na różnych warstwach, które można włączać i wyłączać.
-Obsługa GUI:
-
-Przyciski do wyboru narzędzi, paleta kolorów, menu.
-Biblioteka:
-Qt: umożliwia łatwe zarządzanie interfejsem użytkownika, rysowanie i obsługę wydarzeń (np. myszki). Qt posiada gotowe narzędzia do tworzenia canvasu, na którym użytkownik będzie mógł rysować.
-SFML: Bardziej niskopoziomowa niż Qt, ale też świetna do pracy z grafiką 2D.
+## Wykorzystane technologie:
+- **C++**
+- **Biblioteka graficzna**: SFML / Qt / inne
+- **IDE**: Visual Studio
