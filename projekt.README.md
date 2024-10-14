@@ -2,11 +2,16 @@
 
 ## Opis projektu
 
-Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli użytkownikom na wybór kolorów z palety oraz rysowanie prostych figur geometrycznych, takich jak linie, prostokąty i elipsy.
+Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli użytkownikom na wybór kolorów z palety oraz rysowanie prostych figur geometrycznych, takich jak linie i prostokąty.
 
 ## Funkcjonalności:
 - Paleta kolorów
-- Rysowanie prostych figur (linie, prostokąty, elipsy)
+- Rysowanie prostych figur (linie, prostokąty)
+
+## Szkic harmonogramu pracy:
+
+- **Tydzień 1**: Opracowanie interfejsu użytkownika.
+- **Tydzień 2**: Kontynuacja opracowywania interfejsu użytkownika (poprawki i optymalizacja).
 
 ## Wykorzystane technologie:
 - **C++**
