@@ -6,7 +6,7 @@ Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli uż
 
 ## Funkcjonalności:
 - Paleta kolorów
-- Rysowanie prostych figur (linie, prostokąty)
+- Rysowanie figur 
 
 ## Szkic harmonogramu pracy:
 
