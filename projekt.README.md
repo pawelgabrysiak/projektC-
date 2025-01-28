@@ -2,7 +2,7 @@
 
 ## Opis projektu
 
-Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli użytkownikom na wybór kolorów z palety oraz rysowanie prostych figur geometrycznych, takich jak linie, prostokąty itp.
+Projekt zakłada stworzenie prostej aplikacji typu **Paint**, która pozwoli użytkownikom na wybór kolorów z palety oraz rysowanie prostych figur geometrycznych, takich jak linie, kwadraty itp.
 
 ## Funkcjonalności:
 - Paleta kolorów
